@@ -6,8 +6,8 @@
 
 <img src="/demo-images/correct-guess.PNG">
 <br>
-<img src="/demo-images/large-no.PNG">
+<img src="/demo-images/larger-no.PNG">
 <br>
-<img src="/demo-images/small-no.PNG">
+<img src="/demo-images/smaller-no.PNG">
 
 
