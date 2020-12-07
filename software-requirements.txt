@@ -1,0 +1,27 @@
+Software Requirements
+
+Goals
+
+To create a application on which user will be able to guess a random no(correct no)
+
+User Stories:
+1. As a viewer, I want to enter a number and get an feedback whether the number entered
+  is greater, smaller or equal to the correct number
+
+2. As a viewer, If I enter the wrong answer I want my entries to be saved somewhere
+
+Business Requirements
+
+Pages:
+    * Home
+
+Home Page - 
+    * Heading
+    * Input for number
+    * Feedback whether correct or greater/smaller
+    * All entries saved as list
+
+- Technical Requirements
+    * FrontEnd - HTML, CSS and JS
+    * No backend and Database used 
+    
